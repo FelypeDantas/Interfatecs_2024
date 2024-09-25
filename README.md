@@ -31,6 +31,14 @@
 <h3>Tipo de Saida</h3>
 <img src="plantaoduvidas/saida.png"/>
 
+## Mentirinha
+
+<p> Neste exercicio deveriamos criar uma forma de falar se o número era primo ou não. <a href="mentirinha/mentirinha.java">Clique aqui para ver o código</a></p>
+
+## Quem é o pivô?
+
+<p> Um exercicio simples procurando descobrir quem era o número do meio ou seja, recebia 3 valores, concatenava, e então pegava o do meio. <a href="Quem_e_o_pivo/main/pivo.java">Clique para ver o código</a></p>
+
 ## Autor
 <div align="center">
 <a href="https://www.linkedin.com/in/felype-dantas-dos-santos-94497b193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
